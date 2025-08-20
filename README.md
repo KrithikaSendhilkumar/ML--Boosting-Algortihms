@@ -1,2 +1,13 @@
 # ML--Boosting-Algortihms
-A compact machine learning project demonstrating the power of boosting algorithms — including AdaBoost, Gradient Boosting, and XGBoost — for predictive modelling
+This repository showcases the implementation and comparison of popular boosting algorithms — AdaBoost, Gradient Boosting, and XGBoost — applied to structured datasets for regression task
+
+## Features
+- Clean implementation of boosting models
+- Performance evaluation using R2
+
+
+## 🛠 Tech Stack
+- Python 
+- scikit-learn
+- XGBoost
+- pandas
